@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP LP5024RSMR
+D 24-Channel I2C Constant-Current RGB LED Driver 
+K
+F http://www.ti.com/lit/gpn/lp5024
+$ENDCMP
+#
+#End Doc Library
