@@ -12,4 +12,10 @@ K
 F http://www.ti.com/lit/gpn/lp5024
 $ENDCMP
 #
+$CMP KRTBLSLPS1.32-VUVX-EQ+BTBV-D8+TWTZ-L1-B
+D LED RGB 6LED 6PLCC SMD
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-6176296/KRTB%20LSLPS1.32_EN.pdf
+$ENDCMP
+#
 #End Doc Library
