@@ -18,4 +18,10 @@ K
 F https://dammedia.osram.info/media/resource/hires/osram-dam-6176296/KRTB%20LSLPS1.32_EN.pdf
 $ENDCMP
 #
+$CMP 150080M153000
+D WURTH ELEKTRONIK - 150080M153000 - LED, RED/GRN/BLUE, 112/285/70MCD, 0805
+K
+F http://katalog.we-online.de/led/datasheet/150080M153000.pdf
+$ENDCMP
+#
 #End Doc Library
