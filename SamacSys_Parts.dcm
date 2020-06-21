@@ -24,4 +24,10 @@ K
 F http://katalog.we-online.de/led/datasheet/150080M153000.pdf
 $ENDCMP
 #
+$CMP TLC556ID
+D Standard Timer Dual 14-Pin SOIC Texas Instruments TLC556ID, Timer Dual 2MHz, 3 ??? 18 V, 14-Pin SOIC
+K
+F 
+$ENDCMP
+#
 #End Doc Library
