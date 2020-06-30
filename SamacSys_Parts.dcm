@@ -36,4 +36,10 @@ K
 F https://www.arrow.com/en/products/veml7700-tt/vishay
 $ENDCMP
 #
+$CMP ADC081C021CIMK_NOPB
+D I2C-Compatible, 8-Bit Analog-to-Digital Converter with Alert Pin
+K
+F http://www.ti.com/lit/ds/symlink/adc081c021.pdf
+$ENDCMP
+#
 #End Doc Library
