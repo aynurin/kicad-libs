@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IQS263B-0-DNR
+D Capacitive Touch Sensors Touch/Prox/Slider Scroll Wheel w/I2C
+K
+F http://www.azoteq.com/images/stories/pdf/iqs263b_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

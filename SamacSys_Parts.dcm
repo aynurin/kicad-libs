@@ -42,4 +42,10 @@ K
 F http://www.ti.com/lit/ds/symlink/adc081c021.pdf
 $ENDCMP
 #
+$CMP TLC555CDR
+D TLC555CDR, Timer 2MHz, 2 ??? 15 V, 8-Pin SOIC-8
+K
+F 
+$ENDCMP
+#
 #End Doc Library
