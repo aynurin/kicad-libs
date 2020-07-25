@@ -48,4 +48,10 @@ K
 F 
 $ENDCMP
 #
+$CMP ZF5S-20-01-T-WT-TR
+D FFC & FPC Connectors 0.50 mm Zero Insertion Force FFC Connector
+K
+F http://suddendocs.samtec.com/prints/zf5s-xx-xx-x-wt-x-xx-mkt.pdf
+$ENDCMP
+#
 #End Doc Library
