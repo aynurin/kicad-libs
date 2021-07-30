@@ -54,4 +54,10 @@ K
 F http://suddendocs.samtec.com/prints/zf5s-xx-xx-x-wt-x-xx-mkt.pdf
 $ENDCMP
 #
+$CMP BQ24079RGTR
+D 1.5A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC with 4.1 VBAT
+K
+F http://www.ti.com/lit/gpn/bq24079
+$ENDCMP
+#
 #End Doc Library
