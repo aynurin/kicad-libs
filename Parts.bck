@@ -1,0 +1,65 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150060YS75000
+D LED,Wurth Elektronik,150060YS75000 Wurth Elektronik 150060YS75000, WL-SMCW Series Yellow LED, 590 nm, 1608 (0603) Clear, Rectangle Lens SMD Package
+F http://uk.rs-online.com/web/p/products/8154219
+$ENDCMP
+#
+$CMP 505567-0471
+D MOLEX - 505567-0471. - CONNECTOR, HEADER, 4POS, 1ROW, 1.25MM
+K 01x04
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//5055670471_PCB_HEADERS.pdf
+$ENDCMP
+#
+$CMP 505567-0671
+D Molex Micro-Lock PLUS 505567, 1.25mm Pitch, 6 Way, 1 Row, Right Angle PCB Header, Surface Mount
+K 01x06
+F https://componentsearchengine.com/Datasheets/1/505567-0671.pdf
+$ENDCMP
+#
+$CMP 53398-0671
+D Molex PICOBLADE Series, Series Number 53398, 1.25mm Pitch 6 Way 1 Row Straight PCB Header, Solder Termination, 1A
+F http://docs-emea.rs-online.com/webdocs/13c4/0900766b813c4502.pdf
+$ENDCMP
+#
+$CMP ADS7142
+D 12-bit 140-kSPS 2-ch nanopower SAR ADC with 1.8-V operation in 1.5-mm x 2-mm QFN package
+K SAR ADC ADS7142IRUGR ADS7142IRUGT
+F https://www.ti.com/lit/ds/symlink/ads7142.pdf
+$ENDCMP
+#
+$CMP ADS7142IRUGR
+D 12-bit 140-kSPS 2-ch nanopower SAR ADC with 1.8-V operation in 1.5-mm x 2-mm QFN package
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads7142
+$ENDCMP
+#
+$CMP BC817DS,115
+D Nexperia BC817DS,115 Dual NPN Transistor, 500 mA, 45 V, 6-Pin TSOP
+F https://assets.nexperia.com/documents/data-sheet/BC817DS.pdf
+$ENDCMP
+#
+$CMP DTC113ZEBTL
+D Bipolar Transistors - Pre-Biased NPN 100mA; 50V EMT3F
+$ENDCMP
+#
+$CMP LS4148-GS18
+D Vishay Switching Diode, 300mA 75V, 2-Pin SOD-80 LS4148-GS18
+F https://www.vishay.com/docs/85561/ls4148.pdf
+$ENDCMP
+#
+$CMP T491B475K020AT
+D Kemet 4.7uF Solid MnO2 Tantalum Electrolytic Capacitor, 20 V dc +/-10%, T491 Series
+F http://uk.rs-online.com/web/p/products/6480581
+$ENDCMP
+#
+$CMP TLA2024IRUGT
+D 12-Bit 4-Ch Delta-Sigma ADC w/ Voltage Reference, Oscillator, PGA, and I2C for Low-Cost Applications
+F http://www.ti.com/lit/ds/sbas846/sbas846.pdf
+$ENDCMP
+#
+$CMP ZF5S-20-01-T-WT-TR
+D FFC & FPC Connectors 0.50 mm Zero Insertion Force FFC Connector
+F http://suddendocs.samtec.com/prints/zf5s-xx-xx-x-wt-x-xx-mkt.pdf
+$ENDCMP
+#
+#End Doc Library
