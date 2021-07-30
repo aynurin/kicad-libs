@@ -1,4 +1,4 @@
-(module Molex_Conn_SMD_01x04_505567_0471 (layer F.Cu) (tedit 5F31FB63)
+(module Molex_Conn_SMD_01x04_505567_0471 (layer F.Cu) (tedit 61046F48)
   (descr "Molex Micro-Lock PLUS 505567, 1.25mm Pitch, 4 Way, 1 Row, Right Angle PCB Header, Surface Mount ")
   (tags "Connector 01x04")
   (attr smd)
@@ -36,12 +36,7 @@
   (pad 3 smd rect (at 0.625 1.575) (size 0.8 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.625 1.575) (size 0.8 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.875 1.575) (size 0.8 1.2) (layers F.Cu F.Paste F.Mask))
-  (model 505567-0471.stp
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model /home/shav/repos/github.com/aynurin/kicad-libs/3d/5055670471.stp
+  (model :Parts:5055670471.stp
     (offset (xyz 4.25 5.8 -16.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
