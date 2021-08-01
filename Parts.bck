@@ -42,6 +42,10 @@ $CMP DTC113ZEBTL
 D Bipolar Transistors - Pre-Biased NPN 100mA; 50V EMT3F
 $ENDCMP
 #
+$CMP HDC2010YPAT
+F Texas Instruments
+$ENDCMP
+#
 $CMP LS4148-GS18
 D Vishay Switching Diode, 300mA 75V, 2-Pin SOD-80 LS4148-GS18
 F https://www.vishay.com/docs/85561/ls4148.pdf
