@@ -1,63 +1,55 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP NE555DR
-D Single Precision Timer
-K
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
-$ENDCMP
-#
-$CMP LP5024RSMR
-D 24-Channel I2C Constant-Current RGB LED Driver 
-K
-F http://www.ti.com/lit/gpn/lp5024
-$ENDCMP
-#
-$CMP KRTBLSLPS1.32-VUVX-EQ+BTBV-D8+TWTZ-L1-B
-D LED RGB 6LED 6PLCC SMD
-K
-F https://dammedia.osram.info/media/resource/hires/osram-dam-6176296/KRTB%20LSLPS1.32_EN.pdf
-$ENDCMP
-#
 $CMP 150080M153000
 D WURTH ELEKTRONIK - 150080M153000 - LED, RED/GRN/BLUE, 112/285/70MCD, 0805
-K
 F http://katalog.we-online.de/led/datasheet/150080M153000.pdf
-$ENDCMP
-#
-$CMP TLC556ID
-D Standard Timer Dual 14-Pin SOIC Texas Instruments TLC556ID, Timer Dual 2MHz, 3 ??? 18 V, 14-Pin SOIC
-K
-F 
-$ENDCMP
-#
-$CMP VEML7700-TT
-D 16Bit Ambient Light Sensor I2C 6.8x2.3mm
-K
-F https://www.arrow.com/en/products/veml7700-tt/vishay
 $ENDCMP
 #
 $CMP ADC081C021CIMK_NOPB
 D I2C-Compatible, 8-Bit Analog-to-Digital Converter with Alert Pin
-K
 F http://www.ti.com/lit/ds/symlink/adc081c021.pdf
-$ENDCMP
-#
-$CMP TLC555CDR
-D TLC555CDR, Timer 2MHz, 2 ??? 15 V, 8-Pin SOIC-8
-K
-F 
-$ENDCMP
-#
-$CMP ZF5S-20-01-T-WT-TR
-D FFC & FPC Connectors 0.50 mm Zero Insertion Force FFC Connector
-K
-F http://suddendocs.samtec.com/prints/zf5s-xx-xx-x-wt-x-xx-mkt.pdf
 $ENDCMP
 #
 $CMP BQ24079RGTR
 D 1.5A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC with 4.1 VBAT
-K
 F http://www.ti.com/lit/gpn/bq24079
+$ENDCMP
+#
+$CMP IQS263B-0-DNR
+F http://www.azoteq.com/images/stories/pdf/iqs263b_datasheet.pdf
+$ENDCMP
+#
+$CMP KRTBLSLPS1.32-VUVX-EQ+BTBV-D8+TWTZ-L1-B
+D LED RGB 6LED 6PLCC SMD
+F https://dammedia.osram.info/media/resource/hires/osram-dam-6176296/KRTB%20LSLPS1.32_EN.pdf
+$ENDCMP
+#
+$CMP LP5024RSMR
+D 24-Channel I2C Constant-Current RGB LED Driver
+F http://www.ti.com/lit/gpn/lp5024
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLC555CDR
+D TLC555CDR, Timer 2MHz, 2 ??? 15 V, 8-Pin SOIC-8
+$ENDCMP
+#
+$CMP TLC556ID
+D Standard Timer Dual 14-Pin SOIC Texas Instruments TLC556ID, Timer Dual 2MHz, 3 ??? 18 V, 14-Pin SOIC
+$ENDCMP
+#
+$CMP VEML7700-TT
+D 16Bit Ambient Light Sensor I2C 6.8x2.3mm
+F https://www.arrow.com/en/products/veml7700-tt/vishay
+$ENDCMP
+#
+$CMP ZF5S-20-01-T-WT-TR
+D FFC & FPC Connectors 0.50 mm Zero Insertion Force FFC Connector
+F http://suddendocs.samtec.com/prints/zf5s-xx-xx-x-wt-x-xx-mkt.pdf
 $ENDCMP
 #
 #End Doc Library
