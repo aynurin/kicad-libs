@@ -38,6 +38,12 @@ D Nexperia BC817DS,115 Dual NPN Transistor, 500 mA, 45 V, 6-Pin TSOP
 F https://assets.nexperia.com/documents/data-sheet/BC817DS.pdf
 $ENDCMP
 #
+$CMP Battery_NTC
+D Multiple-cell battery
+K batt voltage-source cell
+F ~
+$ENDCMP
+#
 $CMP DTC113ZEBTL
 D Bipolar Transistors - Pre-Biased NPN 100mA; 50V EMT3F
 $ENDCMP
